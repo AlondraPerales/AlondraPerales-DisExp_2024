@@ -24,10 +24,14 @@ gastos
 # Gastos durante un año
 29000 + 29000
 gastos <- c(celular, transporte, comestibles, gimnasio, alquiler, otros)
-barlopt (gastos)
+barplot(gastos)
 sort(ylab = "transporte, celular, gimnasio, alquiler, comestibles, otros")
-     xlab = ("gastos")
+      xlab = "gastos"
 sort(barplot)(gastos)
+
+
+
+
 
 
 
