@@ -30,7 +30,46 @@ sort(ylab ="transporte, celular, gimnasio, alquiler, comestibles, otros")
 sort(barplot)(gastos)
 
 
-               
+# Parte II Varianles
+# Problema 1
+# Identifique el tipo de variable (cualitativa o cuantitativa) para la lista de preguntas de una encuesta 
+# aplicada a estudiantes universitarios en una clase de estadistica:
+# Fecha de nacimiento (p. Ej., 21/10/1995) : cuantitativa
+# Nombre del estudiante: cualitativa
+# Edad: cuantitativa
+# Direccion de casa: cualitativa
+# Numero de telefono: cuantitativa
+# Area principal de estudio: cualitativa
+# Grado de año universitario: cualitativa
+# Puntaje de prueba a mitad de periodo: cuantitativa 
+# Calificacion general: A, B, C, D. cualitativa
+# Tiempo para completar la prueba final de MCF 202: cuantitativa 
+# Numero de hermanos: cuantitativa
+
+# Problema 2: elija un objeto y obtega una lista de 14 variables, 7 cuantitativas y 7 cualitativas
+# Cuantitativas
+# Peso
+# Altura
+# Edad
+# Periodo de ovulacion
+# Periodo de reproduccion
+# Numero de dentacion
+# Peridoo de lactacion
+
+# Cualitativas
+# Clase
+# Tipo de sangre
+# Familia
+# Tipo de reproduccion
+# Color
+# Olor
+# Tipo de pelaje
+
+
+
+
+
+
 
 
 
