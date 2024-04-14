@@ -17,17 +17,22 @@ alquiler <- 1500
 alquiler
 otros <- 1833
 otros
-gastos <- 5800 #gastos total con la suma de los datos
-gastos
+gastos <- 5800 # objeto total con la suma de datos
+gastos 
 # Gastos durante semestre escolar
 5800 + 5800 + 5800 + 5800 + 5800
 # Gastos durante un año
 29000 + 29000
 gastos <- c(celular, transporte, comestibles, gimnasio, alquiler, otros)
 barplot(gastos)
-sort(ylab = "transporte, celular, gimnasio, alquiler, comestibles, otros")
-      xlab = "gastos"
+sort.default ( ylab = "transporte, celular, gimnasio, alquiler, comestibles, otros")
+      xlab ="gastos"
 sort(barplot)(gastos)
+
+
+
+
+
 
 
 
