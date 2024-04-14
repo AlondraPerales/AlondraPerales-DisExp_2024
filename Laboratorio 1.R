@@ -30,7 +30,7 @@ sort(ylab ="transporte, celular, gimnasio, alquiler, comestibles, otros")
 sort(barplot)(gastos)
 
 
-# Parte II Varianles
+# Parte II Variables
 # Problema 1
 # Identifique el tipo de variable (cualitativa o cuantitativa) para la lista de preguntas de una encuesta 
 # aplicada a estudiantes universitarios en una clase de estadistica:
@@ -53,7 +53,7 @@ sort(barplot)(gastos)
 # Edad
 # Periodo de ovulacion
 # Periodo de reproduccion
-# Numero de dentacion
+# Numero de dientes
 # Peridoo de lactacion
 
 # Cualitativas
@@ -66,14 +66,37 @@ sort(barplot)(gastos)
 # Tipo de pelaje
 
 # Problema 3: considere una variable de investigacion con valores numericos que describen 
-# fromas electronicas de expresar opiniones de personas: 1= Instagram, 2= Twitter,3= 
-# correo electronico, 4 = mesanje de texto, 5= facebook. ¿ Esta es una variable cualitativa o cuantitativa? 
-# es una variable cualitativa porque cada persona puede expresar sus opiniones y sugerencias 
-# y otras personas no estaran de acuerdo con ello en cambio otras personas si lo estaran.
+# fromas electronicas de expresar opiniones de personas: 1= Twitter, 2= Correo electronico ,3= 
+# mensaje de texto, 4 = facebook, 5= blog ¿ Esta es una variable cualitativa o cuantitativa? 
+# estas son variables cuantitativas ya que en todas se pueden obtener datos de opiniones, los que 
+# estan a favor y los que estan en contra el numero total de usuarios entre otras cosas.
 
 # Problema 4: 
+# Para cada pregunta de ingestigacion, (1) identifique a los individuos de interes
+# el grupo o los grupos que estan estudiando, (2) identifique las variable (s) ( la
+# caracteristicas sobre la que recopilariamos datos), (3) deterimne si cada variable
+# es categorigo cuantitativa  o cualitativa. Explique
 
+# ¿ Cual es la cantidad promedio de horas que los estudiantes de universidades publicas trabajan cada semana?
+#ht <- c(10, 14, 12, 18, 23, 15, 6, 9, 14, 24)
+# mean(ht)
 
+# ¿Que proporcion de todos los estudiantes universitarios de Mexico estan inscritos en una
+# universidad publica?
+#EdU <- (230000)
+#EdUPrivadas <-(170000)
+#EdU - EdUPrivadas
+
+# En las universidades publicas, ¿las estudiantes femeninas tienen un promedio de CENEVAL
+# mas alto que los estudinates varones? si
+
+# ¿Es mas probable que los atletas universitarios reciban asesoramientos academico
+# que los atletas no universitarios? no
+
+# Si reunieramos datos para responder a las preguntas de investigacion anterior, ¿que datos
+# podrian analizarse medinate un histograma? ¿Como lo sabes?
+# si, porque mediante el histograma se puede observar la cantidad de variables que estas tomando
+# para responder dichas preguntas.
 
 
 
