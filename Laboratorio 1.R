@@ -65,7 +65,13 @@ sort(barplot)(gastos)
 # Olor
 # Tipo de pelaje
 
+# Problema 3: considere una variable de investigacion con valores numericos que describen 
+# fromas electronicas de expresar opiniones de personas: 1= Instagram, 2= Twitter,3= 
+# correo electronico, 4 = mesanje de texto, 5= facebook. ¿ Esta es una variable cualitativa o cuantitativa? 
+# es una variable cualitativa porque cada persona puede expresar sus opiniones y sugerencias 
+# y otras personas no estaran de acuerdo con ello en cambio otras personas si lo estaran.
 
+# Problema 4: 
 
 
 
