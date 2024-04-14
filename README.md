@@ -11,4 +11,11 @@ Repositorio para almacenar los scripts de los diferentes diseños experimentales
 
 ### Laboratorios
 
+# Gastos totales
+
+300 + 240 + 1527 + 400 + 1500 + 1833
+
+
+
+
 ### Tareas
