@@ -1,6 +1,7 @@
 # Laboratorio 1
 # Alondra Perales
 # 14/04/2024
+# 2070702
 
 # Gastos totales
 300 + 240 + 1527 + 400 + 1500 + 1833
@@ -24,11 +25,12 @@ gastos
 # Gastos durante un año
 29000 + 29000
 gastos <- c(celular, transporte, comestibles, gimnasio, alquiler, otros)
-barplot(gastos)
-sort(ylab ="transporte, celular, gimnasio, alquiler, comestibles, otros")
-               xlab ="gastos"
-sort(barplot)(gastos)
 
+barplot(gastos)
+
+gastos_ordenados <- sort(gastos, decreasing = TRUE)
+
+barplot(gastos_ordenados)
 
 # Parte II Variables
 # Problema 1
