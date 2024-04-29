@@ -9,11 +9,14 @@ Repositorio para almacenar los scripts de los diferentes diseños experimentales
   
 + Práctica 2 (04/10/2024): Crera primer proyecto para r r y sicronizar con Github en la nube
 
++ Práctica 3: Salida a campo
+
++ Práctica 4: Revisión frl "laboratorio 1"
+
++ Clase 2 (29/24/2024): Importar datos, estadistica descriptiva
+
 ### Laboratorios
 
-# Gastos totales
-
-300 + 240 + 1527 + 400 + 1500 + 1833
 
 
 
