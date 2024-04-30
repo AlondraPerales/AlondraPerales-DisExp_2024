@@ -33,13 +33,15 @@ fivenum(cr$diametro)
 
 boxplot(cr$diametro)
 
-boxplot(cr$altura, col ="Red"
-        ylim=c(10,30), ylab = "Altura (cm)",
-        main ="Cedro rojo")
+boxplot(cr$altura, col= "red"
+        ylim =c(10,30), ylab="altura (cm)",
+        main = "Cedro rojo")
 
 hist(cr$altura)
 
-hist(cr$altura, xlab = "altura (cm)",
-     main ="cedro rojo"
-     ylab= "frecuencia"
-     col= "red")
+hist(cr$altura, xlab = "altura(cm)"
+     main = "cedro rojo"
+     ylab ="frecuencia"
+     col="red")
+     
+     
