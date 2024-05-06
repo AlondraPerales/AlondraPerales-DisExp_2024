@@ -31,3 +31,4 @@ sub1 <- subset(inventario, Diametro >= 15)
 sub2 <- subset(inventario, Diametro >= mean(Diametro))
 sub3 <- subset(inventario, Clase != "D")
 boxplot(sub3$Diametro ~ sub3$Clase, col = "Green")
+
