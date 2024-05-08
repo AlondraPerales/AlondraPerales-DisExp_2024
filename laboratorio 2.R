@@ -8,10 +8,6 @@
 
 getwd()
 setwd("C:/AlondraPerales-DisExp_2024")
-trees <- read.csv("DBH_1.csv", header = TRUE)
-head(trees)
-
-
 
 
 # Ingresar datos directo en la consola  -----------------------------------
@@ -24,9 +20,9 @@ dbh <- c(16.5, 25.3, 22.1, 17.2, 16.1, 8.1, 34.3, 5.4, 11.2, 24.1,
 # Datos de URL no seguras (https) -----------------------------------------
 
 
-prof.url <- "http://www.profepa.gob.mx/innovaportal/file/7635/1/accionesInspeccionfoanp.csv"
-profepa <- read.csv(prof_url)
-head(profepa)
+prof.url <- "https://www.profepa.gob.mx/innovaportal/file/7635/1/accionesInspeccionfoanp.csv"
+profe <- read.csv(prof.url)
+head(prof.url)
 
 prof.url_2 <- paste0("http://www.profepa.gob.mx/innovaportal/", 
                      "file/7635/1/accionesInspeccionfoanp.csv")
