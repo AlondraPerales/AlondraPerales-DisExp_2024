@@ -92,10 +92,12 @@ barplot(feeds)
 barplot(feeds[order(feeds, decreasing = FALSE)])
 
 # Personalizar histograma
+
 barplot(sort(feeds), horiz = TRUE,
         main = "Frecuencia de alimentacion",
         las = 1, xlab = "Numeros de pollos",
-        col = c("Red", "Purple", "Green", "Lightgreen", "Blue", "Lightblue"
+        col = c("Red", "Purple", "Green", "Lightgreen", "Blue", "Lightblue"))
+        
                 
 
 
