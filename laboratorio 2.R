@@ -21,16 +21,14 @@ dbh <- c(16.5, 25.3, 22.1, 17.2, 16.1, 8.1, 34.3, 5.4, 11.2, 24.1,
 # Datos de URL no seguras (https) -----------------------------------------
 
 
-prof.url <- "https://www.profepa.gob.mx/innovaportal/file/7635/1/accionesInspeccionvsrm.csv"
+prof_url <- "https://www.profepa.gob.mx/innovaportal/file/7635/1/accionesInspeccionvsrm.csv"
 profepa <- read.csv(prof.url)
 head(profepa)
-
 
 prof.url_2 <- paste0("http://www.profepa.gob.mx/innovaportal/", 
                      "file/7635/1/accionesInspeccionfoanp.csv")
 profepa2 <- read.csv(prof.url_2)
 head(profepa2)
-
 
 
 # Datos de URL seguras: Dropbox y Github ----------------------------------
@@ -42,7 +40,8 @@ head(conjunto)
 library(readr)
 file <- paste0("https://raw.githubusercontent.com/mgtagle/", 
                "202_Analisis_Estadistico_2020/master/cuadro1.csv")
-inventario <- read_csv(file)
+
+inventario <- read.csv(file)
 head(inventario)
 
 
@@ -90,15 +89,14 @@ feeds <- table(chickwts$feed)
 feeds
 
 barplot(feeds)
-
 barplot(feeds[order(feeds, decreasing = FALSE)])
 
 # Personalizar histograma
-
 barplot(sort(feeds), horiz = TRUE,
         main = "Frecuencia de alimentacion",
         las = 1, xlab = "Numeros de pollos",
-        col = c("Red", "Purple", "Green", "Lightgreen", "Blue", "Lightblue"))
+        col = c("Red", "Purple", "Green", "Lightgreen", "Blue", "Lightblue"
+                
 
 
 
