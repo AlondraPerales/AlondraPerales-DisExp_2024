@@ -15,6 +15,9 @@ Repositorio para almacenar los scripts de los diferentes diseños experimentales
 
 + Clase 2 (29/24/2024): Importar datos, estadistica descriptiva
 
++ Clase 4 (20/05/2024): Clase problema de ANOVA
+
+
 ### Laboratorios
 
 
