@@ -7,7 +7,7 @@ Repositorio para almacenar los scripts de los diferentes diseños experimentales
 ### Contendio del curso
 + Clase 1 (08/04/2024):Crear cuenta de Github
   
-+ Práctica 2 (10/04/2024): Crera primer proyecto para r  y sicronizar con Github en la nube
++ Práctica 2 (10/04/2024): Crear primer proyecto para r  y sicronizar con Github en la nube
 
 + Práctica 3 (15/04/2024) y (17/04/2024): Salida a campo
 
