@@ -41,3 +41,10 @@ Repositorio para almacenar los scripts de los diferentes diseños experimentales
 ### Tareas
 + Laboratorio 1
 + Laboratorio 2
+
+### Examenes
++ Examen 1 (22/05/2024)
+
++ Examen 2 (20/05/2024)
+
+
