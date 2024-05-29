@@ -47,8 +47,5 @@ Repositorio para almacenar los scripts de los diferentes diseños experimentales
 
 + Examen 2 (20/05/2024)
 
-### Insights
-
-[![InsightsSnapshot](https://github.com/AlondraPerales/AlondraPerales-DisExp_2024/graphs/contributors?from=2024-04-07&to=2024-05-28&type=c)]
-
+![]
 
