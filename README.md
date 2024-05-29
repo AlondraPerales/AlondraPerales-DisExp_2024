@@ -21,7 +21,7 @@ Repositorio para almacenar los scripts de los diferentes diseños experimentales
 
 + Entrega de laboratorio 2 (08/05/2024) :
 
-+ Práctica 6 (15/05/2024). Dia del maestro asueto
++ Práctica 6 (15/05/2024): Dia del maestro asueto
   
 + Clase 4 (20/05/2024): Clase problema de ANOVA
 
@@ -46,5 +46,9 @@ Repositorio para almacenar los scripts de los diferentes diseños experimentales
 + Examen 1 (22/05/2024)
 
 + Examen 2 (20/05/2024)
+
+### Insights
+
+[![InsightsSnapshot](https://github.com/AlondraPerales/AlondraPerales-DisExp_2024/graphs/contributors?from=2024-04-07&to=2024-05-28&type=c)]
 
 
