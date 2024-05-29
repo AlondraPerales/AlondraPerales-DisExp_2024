@@ -47,5 +47,6 @@ Repositorio para almacenar los scripts de los diferentes diseños experimentales
 
 + Examen 2 (20/05/2024)
 
-![]
+![]()
+
 
